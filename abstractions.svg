@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250"
+   height="250"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   sodipodi:docbase="/home/mx"
+   sodipodi:docname="abstractions.svg"
+   version="1.0">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient2392">
+      <stop
+         id="stop2404"
+         offset="0"
+         style="stop-color:#3c4f21;stop-opacity:0.12156863;" />
+      <stop
+         style="stop-color:#9da790;stop-opacity:0.05882353;"
+         offset="0"
+         id="stop2408" />
+      <stop
+         id="stop2410"
+         offset="0"
+         style="stop-color:#ced3c7;stop-opacity:0.02745098;" />
+      <stop
+         style="stop-color:#e6e9e3;stop-opacity:0.01176471;"
+         offset="0"
+         id="stop2412" />
+      <stop
+         id="stop2414"
+         offset="0"
+         style="stop-color:#f2f4f1;stop-opacity:0.00392157;" />
+      <stop
+         style="stop-color:#f8f9f8;stop-opacity:0;"
+         offset="0"
+         id="stop2416" />
+      <stop
+         id="stop2418"
+         offset="0"
+         style="stop-color:#fbfcfb;stop-opacity:0;" />
+      <stop
+         style="stop-color:#fdfdfd;stop-opacity:0;"
+         offset="0"
+         id="stop2420" />
+      <stop
+         id="stop2422"
+         offset="0"
+         style="stop-color:#fefefe;stop-opacity:0;" />
+      <stop
+         style="stop-color:#fefefe;stop-opacity:0;"
+         offset="0"
+         id="stop2424" />
+      <stop
+         id="stop2426"
+         offset="0"
+         style="stop-color:#fefefe;stop-opacity:0;" />
+      <stop
+         style="stop-color:#fefefe;stop-opacity:0;"
+         offset="0"
+         id="stop2428" />
+      <stop
+         id="stop2430"
+         offset="0"
+         style="stop-color:#fefefe;stop-opacity:0;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop2396" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible">
+      <path
+         id="path2253"
+         d="M 5.77,0 L -2.88,5 L -2.88,-5 L 5.77,0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Dot_s"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Dot_s"
+       style="overflow:visible">
+      <path
+         id="path2286"
+         d="M -2.5,-1 C -2.5,1.76 -4.74,4 -7.5,4 C -10.26,4 -12.5,1.76 -12.5,-1 C -12.5,-3.76 -10.26,-6 -7.5,-6 C -4.74,-6 -2.5,-3.76 -2.5,-1 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none;marker-end:none"
+         transform="matrix(0.2,0,0,0.2,1.425099,0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM"
+       style="overflow:visible">
+      <path
+         id="path2262"
+         d="M 5.77,0 L -2.88,5 L -2.88,-5 L 5.77,0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2392"
+       id="linearGradient2432"
+       x1="5.6991706"
+       y1="123.92857"
+       x2="237.87227"
+       y2="123.92857"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       gradientTransform="matrix(1.052302,0,0,1,-4.583786,0)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="176.9837"
+     inkscape:cy="146.99154"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="728"
+     inkscape:window-height="571"
+     inkscape:window-x="126"
+     inkscape:window-y="105" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:url(#linearGradient2432);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.24982023;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2390"
+       width="244.31595"
+       height="240.68405"
+       x="1.4134563"
+       y="3.5865457"
+       ry="0.34085962" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.87307334px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#TriangleInM);marker-mid:url(#Dot_s);marker-end:url(#TriangleOutM);stroke-opacity:1"
+       d="M 120.33168,12.884229 C 119.68115,238.99268 119.68115,238.99268 119.68115,238.99268"
+       id="path1309" />
+    <path
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:0.87307334px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#TriangleInM);marker-mid:url(#Dot_s);marker-end:url(#TriangleOutM);stroke-opacity:1"
+       d="M 15.912597,122.41975 C 224.10023,122.10424 224.10023,122.10424 224.10023,122.10424"
+       id="path2368" />
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Trebuchet MS"
+       x="165.7319"
+       y="128.44722"
+       id="text2370"
+       sodipodi:linespacing="125%"
+       transform="scale(0.959551,1.042154)"><tspan
+         sodipodi:role="line"
+         id="tspan2372"
+         x="165.7319"
+         y="128.44722">More encompassing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Trebuchet MS"
+       x="2.3446462"
+       y="128.38545"
+       id="text2374"
+       sodipodi:linespacing="125%"
+       transform="scale(0.959551,1.042154)"><tspan
+         sodipodi:role="line"
+         x="2.3446462"
+         y="128.38545"
+         id="tspan2378">Less encompassing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Trebuchet MS"
+       x="129.07361"
+       y="21.838936"
+       id="text2382"
+       sodipodi:linespacing="125%"
+       transform="scale(0.959551,1.042154)"><tspan
+         sodipodi:role="line"
+         x="129.07361"
+         y="21.838936"
+         id="tspan2384">More abstract</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Trebuchet MS"
+       x="129.10216"
+       y="222.85475"
+       id="text2386"
+       sodipodi:linespacing="125%"
+       transform="scale(0.959551,1.042154)"><tspan
+         sodipodi:role="line"
+         x="129.10216"
+         y="222.85475"
+         id="tspan2388">Less abstract</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,46 @@
+Link Logger
+    Viewer (index.pl)
+        Renderer (render.pl)
+    Add-A-Link (add-link.pl)
+        Context
+        User
+        Configuration
+        Database
+    Browser Integration (linkgrabber.js)
+        Context
+    Renderer (render.pl)
+        Configuration
+    Configuration
+        Link Logs
+            Log Properties
+                Log Name
+                Database
+                Output Properties
+                    Format
+                    Location
+                    Template
+                Access Rights
+                    Users
+        Users
+            User
+                User Name
+                Logs
+    Database
+        Logs
+            Log
+                Log Name
+                Entries
+                    Entry
+                        URL
+                        Title
+                        Quote
+                        Categories
+                        Time
+                        User
+                Indexes
+                    Index                        
+        Templates
+            Template
+                Tags
+        Output
+            Logs
