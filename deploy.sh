@@ -12,7 +12,8 @@ HOST="w28@w42.warpedvisions.org"
 REMOTE_PATH="~/images.warpedvisions.org"
 RSYNC_FLAGS=(-avz --delete
   --exclude .git/ --exclude .gitignore --exclude .DS_Store
-  --exclude .claude/ --exclude CLAUDE.md --exclude deploy.sh)
+  --exclude .claude/ --exclude CLAUDE.md --exclude deploy.sh
+  --exclude .dh-diag)
 
 cd "$(dirname "$0")"
 
